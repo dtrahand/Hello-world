@@ -1,1 +1,2 @@
-example of version control
+README file
+Example of version control
