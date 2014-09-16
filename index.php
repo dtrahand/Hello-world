@@ -1,3 +1,3 @@
-<h1>Hello WOrld</h1>
+<h1>Hello World</h1>
 
-<img src='images/iceCream.jpg'>
+<img src='./images/IceCream.jpg'>
